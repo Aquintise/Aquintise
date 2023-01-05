@@ -20,6 +20,7 @@ My Resume: [here](https://aquintise.github.io/Resume.pdf)
   ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
   ![Robot Framework](https://img.shields.io/static/v1?style=for-the-badge&message=Robot+Framework&color=000000&logo=Robot+Framework&logoColor=FFFFFF&label=)
   ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
  
  **Tools**
 
